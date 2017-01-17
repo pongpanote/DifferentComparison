@@ -1,0 +1,13 @@
+/*.suo
+/RestService/bin
+/RestService/obj
+/RestServiceStart/bin
+/RestServiceStart/obj
+/UnitTests/RestServiceTest/obj
+/UnitTests/RestServiceTest/bin
+/DifferentComparator.sln.DotSettings.user
+/.vs
+/TestRestService/obj
+/TestRestService/bin
+/UnitTests/bin
+/bin
